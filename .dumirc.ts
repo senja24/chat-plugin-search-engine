@@ -14,15 +14,15 @@ const themeConfig = {
       text: 'Github',
     },
     {
-      link: 'https://github.com/lobehub/lobe-chat',
-      text: 'Try it on LobeChat',
+      link: 'https://cleek.id',
+      text: 'Try it on Cleek',
       type: 'primary',
     },
   ],
-  footer: 'Made with 🤯 by LobeHub',
+  footer: 'Made with 🤯 by Cleek',
   name: 'Search Engine',
   socialLinks: {
-    discord: 'https://discord.gg/AYFPHvv2jT',
+    discord: 'https://discord.gg',
     github: homepage,
   },
 };
@@ -43,5 +43,5 @@ export default defineConfig({
   }`,
   ],
   themeConfig,
-  title: 'Search Engine - Lobe Chat Plugin',
+  title: 'Search Engine - Cleek Plugin',
 });

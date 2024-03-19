@@ -1,6 +1,6 @@
 ---
 title: Changelog
-description: New updates and improvements to @lobehub/chat-plugin-search-engine
+description: New updates and improvements to @senja24/chat-plugin-search-engine
 nav:
   title: Changelog
   order: 999
